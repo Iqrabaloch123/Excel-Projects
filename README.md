@@ -47,7 +47,10 @@
 - **Project objective:** 
 
     **1.** Create a product sales report(https://docs.google.com/spreadsheets/d/1f-q-vPzCiQ75BGfcWdkyL_pwyZ19Wxyk/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
+
+  
 (https://drive.google.com/file/d/1SnvjH1FhmjllirzG5LiNUO-itmwN7Lk8/view?usp=drive_link)
+
 
   Certainly! Here's a concise summary of the cleaning and merging tasks:
 
@@ -77,7 +80,10 @@
   **Loan Repayment Report:**
 
   create loan repayment report(https://drive.google.com/file/d/1ja2KzOZdZZdFD1kAgu0bnpEYuO6l2o8E/view?usp=drive_link)
+
+  
   (https://docs.google.com/spreadsheets/d/1-i5TjyEdwSY2xB5PCDCC0TkJEuzBZgNb/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
+  
 
 After performing the calculations for 'Total Interest Amount' and 'Total Cost of Loan' across various 'Annual Interest Rates' and 'Loan Periods in years,' the insights provide valuable information for **Mr. Hathodawala's** decision-making.
 
@@ -115,8 +121,10 @@ Extract the month_name from the "date" column.
 
 Execute the steps and transformations to achieve a refined dataset for further analysis.
 
-## report(https://drive.google.com/file/d/1db_mQ6GanQ7oaZFDQc7dVyU6Opqav7db/view?usp=drive_link)
+## report(https://drive.google.com/file/d/1db_mQ6GanQ7oaZFDQc7dVyU6Opqav7db/view?usp=drive_link) 
+
 ## report1(https://drive.google.com/file/d/1orPXttz5pZtHM5FJISSxcuJkdqCHrOq-/view?usp=drive_link)
+
 ## report 2(https://drive.google.com/file/d/15s3OVfZEhHR9DpUdwT6CRmOegAq1c60N/view?usp=drive_link)
 
 ## DAX Measures and Pivot Table:
@@ -164,6 +172,8 @@ By addressing these business inquiries and presenting the findings in a structur
 ## Project Priority Matrix Beautification:
 
 create Project Priority Matrix Beautification(https://drive.google.com/file/d/1OrXa1hu64kMJymtcKk-SP7QRQH0jBzCg/view?usp=drive_link)
+
+
 (https://docs.google.com/spreadsheets/d/1-rEU9TY9z06lo8CrjWCBuoRZCq3-2dAT/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
 
 To achieve the visually appealing version of the "Project Priority Matrix," modifications were made to enhance clarity and presentation. Taking inspiration from the provided "Project Priority Matrix_Beautified.pdf," the following improvements were implemented:
@@ -179,6 +189,7 @@ The goal is to provide a more engaging and comprehensible representation of proj
 ## Scenario Planning Tool Beautification:
 
 create Scenario Planning Tool Beautification(https://drive.google.com/file/d/1ksSDQ53wChGTF3AGokgt1voGDbTZnAl2/view?usp=drive_link)
+
 (https://docs.google.com/spreadsheets/d/15IL33EPur_G4jtHpCyVvXcWWHTP1j1Ea/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
 
 To enhance the visual appeal and functionality of the "scenario planning tool.xlsx," modifications were made, drawing inspiration from the aesthetically pleasing "Scenario Planning Tool_Beautified.pdf" created by Peter. Key improvements include:
