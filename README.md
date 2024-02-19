@@ -46,7 +46,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a product sales report(https://github.com/Iqrabaloch123/Excel-Projects/blob/main/product_sales.pdf)
+    **1.** Create a product sales report(https://docs.google.com/spreadsheets/d/1f-q-vPzCiQ75BGfcWdkyL_pwyZ19Wxyk/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
+(https://drive.google.com/file/d/1SnvjH1FhmjllirzG5LiNUO-itmwN7Lk8/view?usp=drive_link)
+
   Certainly! Here's a concise summary of the cleaning and merging tasks:
 
 **Task 1: Cleaning the Bad Data:**
@@ -74,7 +76,8 @@
 
   **Loan Repayment Report:**
 
-  create loan repayment report(https://github.com/Iqrabaloch123/Excel-Projects/blob/main/Loan_repayment_template.pdf)
+  create loan repayment report(https://drive.google.com/file/d/1ja2KzOZdZZdFD1kAgu0bnpEYuO6l2o8E/view?usp=drive_link)
+  (https://docs.google.com/spreadsheets/d/1-i5TjyEdwSY2xB5PCDCC0TkJEuzBZgNb/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
 
 After performing the calculations for 'Total Interest Amount' and 'Total Cost of Loan' across various 'Annual Interest Rates' and 'Loan Periods in years,' the insights provide valuable information for **Mr. Hathodawala's** decision-making.
 
@@ -87,7 +90,9 @@ Based on the insights derived from the PMT function, evaluating the '**Monthly P
 This comprehensive analysis will empower **Mr. Hathodawala** to make an informed decision, selecting a **loan** offer that not only fits his budget but also minimizes the overall cost of borrowing.
 
 ## power query pdf
-create power query pdf(https://github.com/Iqrabaloch123/Excel-Projects/blob/main/powerquery.pdf)
+create power query pdf(https://docs.google.com/spreadsheets/d/1l2P_ve_McNsDrX9ovzfnzJX9rHcOa97z/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
+
+(https://drive.google.com/file/d/1z9Lie3nnVrzCqDn9LLAXhX673wfjaOUV/view?usp=drive_link)
 
 ## Power Query Execution Steps:
 Open a new Excel file and load the provided CSV files, "bookings_data.csv" and "rooms_data.csv," using the "From Text/CSV" option. Then, open Power Query.
@@ -110,9 +115,9 @@ Extract the month_name from the "date" column.
 
 Execute the steps and transformations to achieve a refined dataset for further analysis.
 
-## report(https://github.com/Iqrabaloch123/Excel-Projects/blob/main/report.pdf)
-## report1(https://github.com/Iqrabaloch123/Excel-Projects/blob/main/report1.pdf)
-## report 2(https://github.com/Iqrabaloch123/Excel-Projects/blob/main/report2.pdf)
+## report(https://drive.google.com/file/d/1db_mQ6GanQ7oaZFDQc7dVyU6Opqav7db/view?usp=drive_link)
+## report1(https://drive.google.com/file/d/1orPXttz5pZtHM5FJISSxcuJkdqCHrOq-/view?usp=drive_link)
+## report 2(https://drive.google.com/file/d/15s3OVfZEhHR9DpUdwT6CRmOegAq1c60N/view?usp=drive_link)
 
 ## DAX Measures and Pivot Table:
 Total Revenue in June for Business Category:
@@ -135,7 +140,9 @@ After creating the DAX measures and constructing the PivotTable as per the forma
 
 ## Sales Market Report
 
-create Sales Market Report(https://github.com/Iqrabaloch123/Excel-Projects/blob/main/assignment2.pdf)
+create Sales Market Report(https://drive.google.com/file/d/1U3D1p50UxlYSGLb94iGZEtapbinA3dRx/view?usp=drive_link)
+
+(https://docs.google.com/spreadsheets/d/1KgOqj9_5AWuMIMrUoNK0pSf5me4Z8exY/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
 
 ** Top 10 Products Based on Percentage Increase in Net Sales (2020 to 2021):
 Utilize appropriate calculations and sort products based on percentage increase.
@@ -156,7 +163,8 @@ By addressing these business inquiries and presenting the findings in a structur
 
 ## Project Priority Matrix Beautification:
 
-create Project Priority Matrix Beautification(https://github.com/Iqrabaloch123/Excel-Projects/blob/main/Project%20Priority%20Matrix_Beautified.pdf) 
+create Project Priority Matrix Beautification(https://drive.google.com/file/d/1OrXa1hu64kMJymtcKk-SP7QRQH0jBzCg/view?usp=drive_link)
+(https://docs.google.com/spreadsheets/d/1-rEU9TY9z06lo8CrjWCBuoRZCq3-2dAT/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
 
 To achieve the visually appealing version of the "Project Priority Matrix," modifications were made to enhance clarity and presentation. Taking inspiration from the provided "Project Priority Matrix_Beautified.pdf," the following improvements were implemented:
 
@@ -170,7 +178,8 @@ The goal is to provide a more engaging and comprehensible representation of proj
 
 ## Scenario Planning Tool Beautification:
 
-create Scenario Planning Tool Beautification(https://github.com/Iqrabaloch123/Excel-Projects/blob/main/Scenario%20Planning%20Tool_Beautified.pdf)
+create Scenario Planning Tool Beautification(https://drive.google.com/file/d/1ksSDQ53wChGTF3AGokgt1voGDbTZnAl2/view?usp=drive_link)
+(https://docs.google.com/spreadsheets/d/15IL33EPur_G4jtHpCyVvXcWWHTP1j1Ea/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
 
 To enhance the visual appeal and functionality of the "scenario planning tool.xlsx," modifications were made, drawing inspiration from the aesthetically pleasing "Scenario Planning Tool_Beautified.pdf" created by Peter. Key improvements include:
 
