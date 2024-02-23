@@ -1,6 +1,11 @@
 # Excel-Projects
 ## Finance Report: Personal Expense Tracker
 
+
+![111](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/1a933118-a8d5-402f-a031-34e006554335)
+
+
+
 - **Project Objective:**
 - ** Create Personal Expense Tracker(https://docs.google.com/spreadsheets/d/1ER9C1-gE_60WlVCoAize6s0ZopcV9Pgl/edit#gid=79930846)
 
@@ -44,6 +49,10 @@
 ## product sales report:
 
 
+![222](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/115f28ba-c355-4cf5-92c2-4479088eda7f)
+
+
+
 - **Project objective:** 
 
     **1.** Create a product sales report(https://docs.google.com/spreadsheets/d/1f-q-vPzCiQ75BGfcWdkyL_pwyZ19Wxyk/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
@@ -79,6 +88,10 @@
 
   **Loan Repayment Report:**
 
+
+  ![333](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/c0384748-7acc-4f8d-a633-3cc523afdb90)
+
+
   create loan repayment report(https://drive.google.com/file/d/1ja2KzOZdZZdFD1kAgu0bnpEYuO6l2o8E/view?usp=drive_link)
 
   
@@ -96,6 +109,10 @@ Based on the insights derived from the PMT function, evaluating the '**Monthly P
 This comprehensive analysis will empower **Mr. Hathodawala** to make an informed decision, selecting a **loan** offer that not only fits his budget but also minimizes the overall cost of borrowing.
 
 ## power query pdf
+
+
+![555](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/13e064fd-15d7-4aee-a18c-03dc22e7b624)
+
 create power query pdf(https://docs.google.com/spreadsheets/d/1l2P_ve_McNsDrX9ovzfnzJX9rHcOa97z/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
 
 (https://drive.google.com/file/d/1z9Lie3nnVrzCqDn9LLAXhX673wfjaOUV/view?usp=drive_link)
@@ -121,11 +138,24 @@ Extract the month_name from the "date" column.
 
 Execute the steps and transformations to achieve a refined dataset for further analysis.
 
-## report(https://drive.google.com/file/d/1db_mQ6GanQ7oaZFDQc7dVyU6Opqav7db/view?usp=drive_link) 
+## report
+![666](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/c2ec8772-3483-44b3-8b6f-e709f9b8a05c)
 
-## report1(https://drive.google.com/file/d/1orPXttz5pZtHM5FJISSxcuJkdqCHrOq-/view?usp=drive_link)
 
-## report 2(https://drive.google.com/file/d/15s3OVfZEhHR9DpUdwT6CRmOegAq1c60N/view?usp=drive_link)
+(https://drive.google.com/file/d/1db_mQ6GanQ7oaZFDQc7dVyU6Opqav7db/view?usp=drive_link) 
+
+## report1
+
+![777](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/867d8b21-a16d-414f-ae06-b8b35b458aa4)
+
+
+(https://drive.google.com/file/d/1orPXttz5pZtHM5FJISSxcuJkdqCHrOq-/view?usp=drive_link)
+
+## report 2
+
+![888](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/eaab07ab-f504-42ea-8c98-046afc2bfd79)
+
+(https://drive.google.com/file/d/15s3OVfZEhHR9DpUdwT6CRmOegAq1c60N/view?usp=drive_link)
 
 ## DAX Measures and Pivot Table:
 Total Revenue in June for Business Category:
@@ -147,6 +177,9 @@ Average Rating of 'Atliq Blu' in July:
 After creating the DAX measures and constructing the PivotTable as per the format in "report1.pdf" and "report2.pdf," you can use these insights to answer specific questions and make informed decisions related to the hospitality challenge.
 
 ## Sales Market Report
+
+![999](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/6e652e8c-c097-4141-aad2-7e1d89c913c5)
+
 
 create Sales Market Report(https://drive.google.com/file/d/1U3D1p50UxlYSGLb94iGZEtapbinA3dRx/view?usp=drive_link)
 
@@ -171,6 +204,9 @@ By addressing these business inquiries and presenting the findings in a structur
 
 ## Project Priority Matrix Beautification:
 
+![9090](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/75d9000f-803a-4ae8-b592-de5176c276b6)
+
+
 create Project Priority Matrix Beautification(https://drive.google.com/file/d/1OrXa1hu64kMJymtcKk-SP7QRQH0jBzCg/view?usp=drive_link)
 
 
@@ -187,6 +223,9 @@ The goal is to provide a more engaging and comprehensible representation of proj
 
 
 ## Scenario Planning Tool Beautification:
+
+![111111](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/69f9aa16-4aeb-4a6b-8d91-3ebfb01f4602)
+
 
 create Scenario Planning Tool Beautification(https://drive.google.com/file/d/1ksSDQ53wChGTF3AGokgt1voGDbTZnAl2/view?usp=drive_link)
 
