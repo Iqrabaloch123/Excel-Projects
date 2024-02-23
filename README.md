@@ -202,7 +202,7 @@ Identify rows with a percentage value of 0% in the "21 vs 20" column.
 Analyze and rank countries based on net sales in 2021.
 By addressing these business inquiries and presenting the findings in a structured format, this report aims to support informed decision-making and provide valuable insights into the company's sales performance and market dynamics.
 
-## Project Priority Matrix Beautification:
+## Project Priority Matrix:
 
 ![999](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/6e652e8c-c097-4141-aad2-7e1d89c913c5)
 
@@ -223,7 +223,7 @@ Improved overall layout and formatting.
 The goal is to provide a more engaging and comprehensible representation of project priorities, aligning with the aesthetic and functional standards set by the "Project Priority Matrix_Beautified.pdf."
 
 
-## Scenario Planning Tool Beautification:
+## Scenario Planning Tool:
 
 ![9090](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/75d9000f-803a-4ae8-b592-de5176c276b6)
 
