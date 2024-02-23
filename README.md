@@ -1,8 +1,9 @@
 # Excel-Projects
 ## Finance Report: Personal Expense Tracker
+![perso](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/19d212da-9e51-4577-bf28-ff212d697450)
 
 
-![111](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/1a933118-a8d5-402f-a031-34e006554335)
+
 
 
 
@@ -49,7 +50,8 @@
 ## product sales report:
 
 
-![222](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/115f28ba-c355-4cf5-92c2-4479088eda7f)
+![sal](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/b5fbafb2-e67b-4776-bb1b-c6d49c5e0cb1)
+
 
 
 
@@ -111,7 +113,8 @@ This comprehensive analysis will empower **Mr. Hathodawala** to make an informed
 ## power query pdf
 
 
-![555](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/13e064fd-15d7-4aee-a18c-03dc22e7b624)
+![quer](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/3fecee84-52e5-4aa2-921c-7b5ae9a47382)
+
 
 create power query pdf(https://docs.google.com/spreadsheets/d/1l2P_ve_McNsDrX9ovzfnzJX9rHcOa97z/edit?usp=drive_link&ouid=112109007698660220437&rtpof=true&sd=true)
 
