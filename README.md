@@ -178,7 +178,7 @@ After creating the DAX measures and constructing the PivotTable as per the forma
 
 ## Sales Market Report
 
-![999](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/6e652e8c-c097-4141-aad2-7e1d89c913c5)
+![888](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/cd994a9d-8b8b-4e24-909d-d175dc266e28)
 
 
 create Sales Market Report(https://drive.google.com/file/d/1U3D1p50UxlYSGLb94iGZEtapbinA3dRx/view?usp=drive_link)
@@ -204,7 +204,8 @@ By addressing these business inquiries and presenting the findings in a structur
 
 ## Project Priority Matrix Beautification:
 
-![9090](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/75d9000f-803a-4ae8-b592-de5176c276b6)
+![999](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/6e652e8c-c097-4141-aad2-7e1d89c913c5)
+
 
 
 create Project Priority Matrix Beautification(https://drive.google.com/file/d/1OrXa1hu64kMJymtcKk-SP7QRQH0jBzCg/view?usp=drive_link)
@@ -224,7 +225,7 @@ The goal is to provide a more engaging and comprehensible representation of proj
 
 ## Scenario Planning Tool Beautification:
 
-![111111](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/69f9aa16-4aeb-4a6b-8d91-3ebfb01f4602)
+![9090](https://github.com/Iqrabaloch123/Excel-Projects/assets/130351579/75d9000f-803a-4ae8-b592-de5176c276b6)
 
 
 create Scenario Planning Tool Beautification(https://drive.google.com/file/d/1ksSDQ53wChGTF3AGokgt1voGDbTZnAl2/view?usp=drive_link)
